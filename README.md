@@ -7,4 +7,4 @@
 5.Integrated multiple data sources to provide a comprehensive view of business performance.
 6.Utilized advanced DAX functions to create custom measures and calculated columns for deeper insights.
 7.Implemented slicers and filters allowing users to interact with data and customize their views.
-8.Designed user-friendly interfaces to facilitate ease of use and accessibility for non-technical stakeholders.
+8.Designed user-friendly interfaces to facilitate ease of use and accessibility for non-technical stakeholders
